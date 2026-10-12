@@ -1,6 +1,6 @@
 # Diggibyte × Databricks World Tour booth page
 
-Interactive "Roll the cube" page for the Databricks World Tour (Mumbai) booth.
+Interactive "Roll the cube" page for the Databricks World Tour (DALLAS) booth.
 Visitors roll a cube to pick an industry; the page shows the storyline, three use cases
 (Genie + Ontology, Lakebase, Databricks Apps) and a live-demo flow.
 
@@ -11,7 +11,7 @@ index.html            Page markup (header, cube section, use-case grid)
 css/styles.css        All styling; brand colours are CSS variables in :root
 js/storylines.js      Content: industries, use cases, demo steps, industry icons
 js/app.js             Cube rotation, reveal animation, attract mode
-assets/img/           Diggibyte logo, Databricks logo, Mumbai skyline
+assets/img/           Diggibyte logo, Databricks logo, DALLAS skyline
 assets/icons/         Genie and Lakebase icons
 ```
 
@@ -46,4 +46,4 @@ python3 -m http.server 8000
 ## Notes
 
 - Company names, people and figures in the storylines are illustrative.
-- Make sure you have the rights to use the Mumbai skyline illustration and partner logos.
+- Make sure you have the rights to use the DALLAS skyline illustration and partner logos.
